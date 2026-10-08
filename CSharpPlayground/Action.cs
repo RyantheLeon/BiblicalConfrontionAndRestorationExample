@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
+﻿
 
-namespace CSharpPlayground;
+namespace BiblicalConfrontationAndRestoration;
 
 public class Action
 {

@@ -1,6 +1,6 @@
-﻿using Action = CSharpPlayground;
+﻿using Action = BiblicalConfrontationAndRestoration;
 
-namespace CSharpPlayground;
+namespace BiblicalConfrontationAndRestoration;
 
 public class Believer : Person
 {
